@@ -1,0 +1,1 @@
+(self.webpackChunkpretzeldata=self.webpackChunkpretzeldata||[]).push([[972],{3972:()=>{}}]);
