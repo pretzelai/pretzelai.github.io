@@ -1,3 +1,0 @@
-/*!
- * Built by Revolist
- */
